@@ -1,0 +1,3 @@
+[2024-04-23 05:40:28] Error occured while installing a package via wp-admin "Repository url must be a valid GitHub repository url"
+[2024-04-23 05:41:30] Package (theme) "portfolio" successfully updated or installed via wp-admin
+[2024-04-23 05:42:23] Package (plugin) "portfolio" successfully updated or installed via wp-admin
